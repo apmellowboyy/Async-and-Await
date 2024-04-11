@@ -14,7 +14,7 @@ namespace Assignment10Ex4
 
     class Program
     {
-        static async void Main(string[] args)
+        static async Task Main(string[] args)
         {
             try
             {
